@@ -10,6 +10,8 @@ Simply start the app via docker compose:
 docker-compose up
 ```
 
+You can go to http://localhost:8000/docs/ and try the API from there
+
 to import the data, you have to install dependencies locally:
 
 ```bash
